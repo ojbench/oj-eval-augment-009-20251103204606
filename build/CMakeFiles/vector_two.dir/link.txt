@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/vector_two.dir/data/two/code.o -o vector_two 
